@@ -18,5 +18,12 @@ IoT-Based Wireless Sensor Network for Flood Monitoring is a wonderful technique 
 - Paste code from WaterFloodCode.txt
 - Run and monitor from IoT platform of choice.
 
+## Tips when using BLYNK
+
+- Change ID,NAME and TOKEN to your actual BLYNK project.
+
+#define BLYNK_TEMPLATE_ID "ID"
+#define BLYNK_TEMPLATE_NAME "Name"
+#define BLYNK_AUTH_TOKEN "Token"
 
 

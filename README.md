@@ -20,8 +20,8 @@ IoT-Based Wireless Sensor Network for Flood Monitoring is a wonderful technique 
 
 ## Tips when using BLYNK
 
-[Change ID, NAME and TOKEN to your actual BLYNK project]
-[Change Wi-Fi credentials to your actual network]
+ - [Change ID, NAME and TOKEN to your actual BLYNK project]
+ - [Change Wi-Fi credentials to your actual network]
 
 
 - #define BLYNK_TEMPLATE_ID "ID"

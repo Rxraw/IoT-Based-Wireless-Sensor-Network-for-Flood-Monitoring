@@ -15,6 +15,6 @@ PREREQUISITS:
 INSTRUCTIONS:
 
 1 - Open up Arduino IDE
-2 - Paste code from WaterFloodcode.txt
+2 - Paste code from WaterFloodCode.txt
 3 - Run and monitor from IoT platform of choice.
 

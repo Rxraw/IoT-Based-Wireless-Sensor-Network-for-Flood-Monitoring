@@ -5,16 +5,18 @@ IoT-Based Wireless Sensor Network for Flood Monitoring is a wonderful technique 
 
 
 
-PREREQUISITS:
+## PREREQUISITS:
 
-1 - IoT platform (eg..BLYNK,ThingSkeek,Amazon Web Services)
-2 - Set up a notification system to recieve updates of the water level via email,SMS or others.
+- IoT platform (eg..BLYNK,ThingSkeek,Amazon Web Services)
+- Set up a notification system to recieve updates of the water level via email,SMS or others.
 
 
 
-INSTRUCTIONS:
+## INSTRUCTIONS:
 
-1 - Open up Arduino IDE
-2 - Paste code from WaterFloodCode.txt
-3 - Run and monitor from IoT platform of choice.
+- Open up Arduino IDE
+- Paste code from WaterFloodCode.txt
+- Run and monitor from IoT platform of choice.
+
+
 
